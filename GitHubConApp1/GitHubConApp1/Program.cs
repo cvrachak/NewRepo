@@ -6,7 +6,7 @@ namespace GitHubConApp1
     {
         static void Main()
         {
-            Console.WriteLine("Hello World ::" + DateTime.Now);
+            Console.WriteLine("Git Hub added and now edited after that Hello World ::" + DateTime.Now);
         }
     }
 }
