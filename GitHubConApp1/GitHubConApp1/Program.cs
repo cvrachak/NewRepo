@@ -8,7 +8,7 @@ namespace GitHubConApp1
         {
             Console.WriteLine("Started");
             Console.WriteLine("Git Hub added and now edited after that Hello World ::" + DateTime.Now);
-            Console.WriteLine("Completed");
+            Console.WriteLine("Completed not yet");
         }
     }
 }
