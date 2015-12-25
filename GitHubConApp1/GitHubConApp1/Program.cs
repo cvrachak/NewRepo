@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace GitHubConApp1
 {
@@ -6,7 +6,9 @@ namespace GitHubConApp1
     {
         static void Main()
         {
+            Console.WriteLine("Started");
             Console.WriteLine("Git Hub added and now edited after that Hello World ::" + DateTime.Now);
+            Console.WriteLine("Completed");
         }
     }
 }
